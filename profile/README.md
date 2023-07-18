@@ -6,10 +6,9 @@ This is the home of Chimerapy the Distributed Computing Framework for Multimodal
 
 For using the framework, below are some useful links:
 
-[ChimeraPy](https://github.com/ChimeraPy/ChimeraPyOrchestrator)
+[Engine](https://github.com/ChimeraPy/Engine): The ChimeraPy Distributed Cluster Networking Engine
 
-[Tutorials](https://github.com/ChimeraPy/ChimeraPyTutorial)
+[Orchestrator](https://github.com/ChimeraPy/Orchestrator): Reusable Nodes and Orchestration Scheme/ Dashboard Application for ChimeraPy with JSON configuration.
 
-[Community-developed Components](http://github.com/ChimeraPy/MMLAPIPE)
+[Community-developed Pipelines](http://github.com/ChimeraPy/Pipelines): Repository of shareable ChimeraPy pipelines (Contribnutions are Welcome!)
 
-[Low-level Framework Details](https://github.com/ChimeraPy/ChimeraPy-Engine)
