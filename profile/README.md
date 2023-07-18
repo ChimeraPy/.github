@@ -10,5 +10,5 @@ For using the framework, below are some useful links:
 
 [Orchestrator](https://github.com/ChimeraPy/Orchestrator): Reusable Nodes and Orchestration Scheme/ Dashboard Application for ChimeraPy with JSON configuration.
 
-[Community-developed Pipelines](http://github.com/ChimeraPy/Pipelines): Repository of shareable ChimeraPy pipelines (Contribnutions are Welcome!)
+[Community-developed Pipelines](http://github.com/ChimeraPy/Pipelines): Repository of shareable ChimeraPy pipelines (Contributions are Welcome!)
 
